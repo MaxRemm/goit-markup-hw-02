@@ -5,3 +5,7 @@
   color: #2e2f42;
   font-weight: 500;
 }
+
+.features-text {
+  letter-spacing: 0.02em;
+}
